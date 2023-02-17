@@ -1,3 +1,4 @@
+# first import libaries  
 import random as r
 def play_game():
   random_number = r.randrange(1,20) #Generate random number
